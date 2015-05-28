@@ -1,2 +1,2 @@
 # Druid
-WOW Druid Weak auras
+Wow Druid Weak auras
